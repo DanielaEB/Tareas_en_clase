@@ -1,5 +1,5 @@
 #include <studio.h>
-void maid()
+void main()
 {
 printf("hola mundo");
 }
